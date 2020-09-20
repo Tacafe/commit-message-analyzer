@@ -131,3 +131,6 @@ dmypy.json
 models/
 output/
 corpus/
+*.model
+*.png
+*.csv
