@@ -48,6 +48,6 @@ SudachiPy==0.4.9
 thinc==7.4.1
 tqdm==4.48.2
 tweepy==3.9.0
-urllib3==1.25.10
+urllib3==1.26.5
 wasabi==0.8.0
 wrapt==1.12.1
